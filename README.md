@@ -10,11 +10,4 @@ Starting distance and predator max speed are altered sequentially to model the d
 the situation in which the predator aims at the front of the zebra or at the back of the zebra.
 
 Many parameters can be adjusted including:
-Predator max speed
-Prey max speed
-Predator acceleration
-Prey acceleration
-Predator speed increase increment
-Predator starting distance
-Predator distance increase increment
-Max chase time 
+Predator max speed, Prey max speed, Predator acceleration, Prey acceleration, Predator speed increase increment, Predator starting distance, Predator distance increase increment, Max chase time 
